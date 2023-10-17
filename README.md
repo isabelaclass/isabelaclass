@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Isa Class 👋
 
 <!--
 **isabelaclass/isabelaclass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
