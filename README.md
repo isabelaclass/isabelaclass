@@ -1,5 +1,6 @@
 ### Hello, I'm Isa Class 👋
-
+- I am a Microsoft Dynamics 365 Finance and Operations Developer
+- Here you will find my college developments 💻 and notations about my D365 developmets ✒️
 <!--
 **isabelaclass/isabelaclass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
