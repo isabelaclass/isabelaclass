@@ -1,36 +1,34 @@
-# 💫About Me :
-# Isa Class - Software Developer
+# 💫 About Me:  
+Hey there! I'm **Isa**, a passionate software developer who's all about exploring new technologies and automating cool stuff! 🚀
 
-Hi! I'm Isa, a passionate software developer with experience in **Microsoft Dynamics 365 Finance and Operations (X++)**, **Power Platform**, and other technologies like **C# .NET**, **VBA**, **Google Apps Script**, **SAP**, and more. I’m also a **Technical Degree in Industrial Automation** graduate.
+I've got experience working with **Microsoft Dynamics 365 Finance and Operations (X++)**, **Power Platform**, **C# .NET**, **VBA**, **Google Apps Script**, **SAP**, and a bunch more. I'm also a proud **Technical Degree graduate in Industrial Automation**. 
 
-I thrive on continuous learning, process optimization, and contributing to both small and large-scale projects. I have experience working in **global teams** using **Agile Scrum methodology**, building solutions to improve operational efficiency and automate processes. 
-
----
-
-## 🔧 Technologies & Tools
-
-- **Languages**: C#, X++, VBA, Java, C
-- **Platforms**: Microsoft Dynamics 365 Finance and Operations, Power Platform (Power Pages, Pipelines), SAP
-- **Tools**: GitHub, Azure DevOps, Google Apps Script
-- **Databases**: SQL, MySQL, SQLite
-- **Others**: Web APIs, Looker Studio, Google Workspace tools
+I love learning new things and optimizing processes – whether it’s big or small projects, I’m all in! I've worked in global teams using **Agile Scrum**, building solutions to make everything run smoother and faster.
 
 ---
 
-## 🔍 Current learning
-
- I’m diving deeper into **C#** to enhance my skills.
-
-
-## 🌱 Personal Interests
-
-I love reading, cats, going to shows, traveling, and enjoying good food. 
+## 🔧 Techie Stuff I Love:
+- **Languages**: C#, X++, VBA, Java, C  
+- **Platforms**: Microsoft Dynamics 365 Finance and Operations, Power Platform (Power Pages, Pipelines), SAP  
+- **Tools**: GitHub, Azure DevOps, Google Apps Script  
+- **Databases**: SQL, MySQL, SQLite  
+- **Other Cool Stuff**: Web APIs, Looker Studio, Google Workspace tools
 
 ---
 
-Feel free to explore my repositories to see the projects I've worked on, and don’t hesitate to connect with me!
+## 🔍 What I’m Learning Right Now:  
+Currently, I'm diving deeper into **C#** to level up my skills! 💡
 
 ---
+
+## 🌱 Personal Interests:  
+When I’m not coding, you can find me reading a good book, hanging out with my cats 🐱, going to shows 🎶, traveling ✈️, or enjoying some delicious food 🍣.  
+
+Feel free to check out my repositories, explore my projects, and don’t hesitate to say hi! I’m always up for a chat and love connecting with fellow developers. 👩‍💻
+
+---
+
+Welcome to my corner of the internet! 💫
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isabelaclass) 
