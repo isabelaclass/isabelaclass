@@ -1,9 +1,7 @@
 # 💫 About Me:  
-Hey there! I'm **Isa**, a passionate software developer who's all about exploring new technologies and automating cool stuff! 🚀
+Hey there! I'm **Isa**, a passionate software developer with experience in **Microsoft Dynamics 365 Finance and Operations (X++)**, **Power Platform**, **C# .NET**, **VBA**, **Google Apps Script**, **SAP**, and more. I'm also a **Technical Degree graduate in Industrial Automation**.
 
-I've got experience working with **Microsoft Dynamics 365 Finance and Operations (X++)**, **Power Platform**, **C# .NET**, **VBA**, **Google Apps Script**, **SAP**, and a bunch more. I'm also a proud **Technical Degree graduate in Industrial Automation**. 
-
-I love learning new things and optimizing processes – whether it’s big or small projects, I’m all in! I've worked in global teams using **Agile Scrum**, building solutions to make everything run smoother and faster.
+I’m always learning and optimizing processes, whether in big or small projects. I’ve worked in global teams using **Agile Scrum** to deliver efficient solutions.
 
 ---
 
