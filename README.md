@@ -7,15 +7,6 @@ I love learning new things and optimizing processes – whether it’s big or sm
 
 ---
 
-## 🔧 Techie Stuff I Love:
-- **Languages**: C#, X++, VBA, Java, C  
-- **Platforms**: Microsoft Dynamics 365 Finance and Operations, Power Platform (Power Pages, Pipelines), SAP  
-- **Tools**: GitHub, Azure DevOps, Google Apps Script  
-- **Databases**: SQL, MySQL, SQLite  
-- **Other Cool Stuff**: Web APIs, Looker Studio, Google Workspace tools
-
----
-
 ## 🔍 What I’m Learning Right Now:  
 Currently, I'm diving deeper into **C#** to level up my skills! 💡
 
