@@ -26,8 +26,8 @@ Welcome to my corner of the internet! 💫
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=isabelaclass&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=isabelaclass&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelaclass&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
+<div align="center">
+  <a href="https://github.com/isabelaclass">
+  <img height=180em src="https://github-readme-stats.vercel.app/api?username=isabelaclass&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelaclass&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+</div>
