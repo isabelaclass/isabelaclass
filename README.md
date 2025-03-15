@@ -6,7 +6,7 @@ I’m always learning and optimizing processes, whether in big or small projects
 ---
 
 ## 🔍 What I’m Learning Right Now:  
-Currently, I'm studing about web developemento to level up my skills! 💡
+Currently, I'm studing about web developement to level up my skills! 💡
 
 ---
 
